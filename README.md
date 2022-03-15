@@ -22,4 +22,8 @@ If you want accurate result with the face_recognition app you should add clear p
 
 **Screenshots**
 
+![face1](https://user-images.githubusercontent.com/100527261/158456232-d5d2a41e-431b-4fe1-8702-fb1fefb33efa.PNG)
+![face2](https://user-images.githubusercontent.com/100527261/158456349-81763e4c-fe5d-42a7-97ee-b08319248a2a.PNG)
+
+
 
