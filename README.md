@@ -10,10 +10,15 @@ The image comparison app compares if two images are the same, displays the selec
 
 The second file is the main_video which is the face recognition app itself. This app identifies your face by checking if a photo of you is in the "Images" folder.
 After running the program the IDE will open a window in which you should see the recording captured by the camera. If the app recognizes your face, it will highlight your face with a red rectangle and on the bottom line you will see the name of the corresponding image from the "Images" folder.
+If the app doesn't recognise you it will display "Unknown" instead of your name.
 
 **Running the app**
 
-I used [Pycharm](https://www.jetbrains.com/pycharm/) for writing these scripts and I suggest running it in the same IDE. You need to add this project into Pycharm and then you can run the main_video and image_comparison by left clicking on them and then select **run** or you can use the hotkey ```CTRL+SHIFT+F10```. If you want accurate result with the face_recognition app you should add clear photos inside the "Images" folder.
+I used [Pycharm](https://www.jetbrains.com/pycharm/) for writing these scripts and I suggest running it in the same IDE. You need to add this project into Pycharm and then you can run the main_video and image_comparison by left clicking on them and then select **run** or you can use the hotkey ```CTRL+SHIFT+F10```.
+
+**Pieces of advice for a more accurate detection**
+If you want accurate result with the face_recognition app you should add clear photos inside the "Images" folder. Besides this you need to stay closer to the camera in order to be detected.
 
 **Screenshots**
+
 
